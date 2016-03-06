@@ -9,5 +9,6 @@
     <string name="title_activity_user_profile">UserProfile</string>
     <string name="title_activity_choose_hospital">ChooseHospitalActivity</string>
     <string name="title_activity_result_list_view_doctor">ResultListViewDoctorActivity</string>
+    <string name="title_activity_detail_information_doctor">DetailInformationDoctorActivity</string>
 
 </resources>

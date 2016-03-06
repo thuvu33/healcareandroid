@@ -38,12 +38,12 @@
   
   "arc_metadata": {
     "apkList": [
-      "LazyList.apk"
+      "healthcarevn.apk"
     ],
     "enableExternalDirectory": false,
     "formFactor": "tablet",
-    "name": "Lazy Image Download In ListView",
+    "name": "healthcarevn",
     "orientation": "landscape",
-    "packageName": "com.androidexample.lazyimagedownload"
+    "packageName": "com.example.healthcarevn"
   }
 }

@@ -52,6 +52,9 @@ public class UserProfile extends ActionBarActivity {
 		bntSearchDoctor.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View arg0) {
+				Intent intent = new Intent(UserProfile.this,
+						ResultListViewDoctorActivity.class);
+				startActivity(intent);
 			}
 		});
 
