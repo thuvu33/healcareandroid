@@ -17,6 +17,7 @@
   "permissions": [
     "alarms",
     {"fileSystem": ["write"]},
+    {"socket": ["tcp-connect", "tcp-listen", "udp-bind", "udp-send-to", "resolve-host"]},
     "unlimitedStorage",
     "notifications",
     "storage",
@@ -37,12 +38,12 @@
   
   "arc_metadata": {
     "apkList": [
-      "Vidu_Intent_Result.apk"
+      "LazyList.apk"
     ],
     "enableExternalDirectory": false,
     "formFactor": "tablet",
-    "name": "Vidu_Intent_Result",
+    "name": "Lazy Image Download In ListView",
     "orientation": "landscape",
-    "packageName": "tranduythanh.com"
+    "packageName": "com.androidexample.lazyimagedownload"
   }
 }
